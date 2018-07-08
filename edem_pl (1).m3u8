@@ -1,0 +1,865 @@
+#EXTM3U
+#EXTINF:0,РБК-ТВ
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/106/index.m3u8
+#EXTINF:0,Пятый Канал
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/112/index.m3u8
+#EXTINF:0,Россия-24
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/507/index.m3u8
+#EXTINF:0,Москва 24
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/523/index.m3u8
+#EXTINF:0,Bloomberg
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/540/index.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/545/index.m3u8
+#EXTINF:0,Мир 24
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/712/index.m3u8
+#EXTINF:0,НТВ (+2)
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/713/index.m3u8
+#EXTINF:0,Первый канал (+2)
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/714/index.m3u8
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/715/index.m3u8
+#EXTINF:0,Пятый Канал (+2)
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/746/index.m3u8
+#EXTINF:0,FRANCE 24 En
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/947/index.m3u8
+#EXTINF:0,CNBC
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/962/index.m3u8
+#EXTINF:0,Euronews
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/969/index.m3u8
+#EXTINF:0,Deutsche Welle EN
+#EXTGRP:новости
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1021/index.m3u8
+#EXTINF:0,TV 1000 Русское кино
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/101/index.m3u8
+#EXTINF:0,Ностальгия
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/102/index.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/103/index.m3u8
+#EXTINF:0,Sony Sci-Fi
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/110/index.m3u8
+#EXTINF:0,КИНОМИКС
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/509/index.m3u8
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/125/index.m3u8
+#EXTINF:0,РОДНОЕ КИНО
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/126/index.m3u8
+#EXTINF:0,TV 1000 Action
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/131/index.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/516/index.m3u8
+#EXTINF:0,Amedia 2
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/510/index.m3u8
+#EXTINF:0,Наше новое кино
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/517/index.m3u8
+#EXTINF:0,TV XXI
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/525/index.m3u8
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/145/index.m3u8
+#EXTINF:0,ИНДИЙСКОЕ КИНО
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/146/index.m3u8
+#EXTINF:0,КИНОСЕРИЯ
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/148/index.m3u8
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/547/index.m3u8
+#EXTINF:0,Теленовелла
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/548/index.m3u8
+#EXTINF:0,Еврокино
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/549/index.m3u8
+#EXTINF:0,Fox Russia
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/550/index.m3u8
+#EXTINF:0,Fox Life
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/553/index.m3u8
+#EXTINF:0,Дом Кино
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/154/index.m3u8
+#EXTINF:0,Amedia 1
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/554/index.m3u8
+#EXTINF:0,Amedia Premium HD (SD)
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/555/index.m3u8
+#EXTINF:0,AMEDIA HIT
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/556/index.m3u8
+#EXTINF:0,TV 1000
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/132/index.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/164/index.m3u8
+#EXTINF:0,AMC
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/557/index.m3u8
+#EXTINF:0,Sony Entertainment Television
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/559/index.m3u8
+#EXTINF:0,2X2
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/702/index.m3u8
+#EXTINF:0,Sony Turbo
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/708/index.m3u8
+#EXTINF:0,Русский бестселлер
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/905/index.m3u8
+#EXTINF:0,Русский роман
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/906/index.m3u8
+#EXTINF:0,Русский детектив
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/907/index.m3u8
+#EXTINF:0,Любимое Кино
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/722/index.m3u8
+#EXTINF:0,КИНОСВИДАНИЕ
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/728/index.m3u8
+#EXTINF:0,КИНО ТВ
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/732/index.m3u8
+#EXTINF:0,Русская Комедия
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/733/index.m3u8
+#EXTINF:0,Detektiv.tv
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/734/index.m3u8
+#EXTINF:0,НТВ‑ХИТ
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/741/index.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/744/index.m3u8
+#EXTINF:0,НСТ
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/726/index.m3u8
+#EXTINF:0,Bollywood
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/719/index.m3u8
+#EXTINF:0,FilmBox
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/817/index.m3u8
+#EXTINF:0,Filmbox Arthouse
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/818/index.m3u8
+#EXTINF:0,Kino Polska International
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/821/index.m3u8
+#EXTINF:0,ZEE TV
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1001/index.m3u8
+#EXTINF:0,FilmBox EN
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1071/index.m3u8
+#EXTINF:0,Дорама
+#EXTGRP:кино
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1066/index.m3u8
+#EXTINF:0,Europa Plus TV
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/115/index.m3u8
+#EXTINF:0,МУЗ
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/116/index.m3u8
+#EXTINF:0,BRIDGE TV Русский Хит
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/120/index.m3u8
+#EXTINF:0,Bridge TV
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/122/index.m3u8
+#EXTINF:0,MTV
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/142/index.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/153/index.m3u8
+#EXTINF:0,Музыка
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/155/index.m3u8
+#EXTINF:0,VH1 European
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/536/index.m3u8
+#EXTINF:0,MTV Dance
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/558/index.m3u8
+#EXTINF:0,Mezzo
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/707/index.m3u8
+#EXTINF:0,ТНТ MUSIC
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/710/index.m3u8
+#EXTINF:0,BRIDGE TV DANCE
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/711/index.m3u8
+#EXTINF:0,Наше ТВ
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/721/index.m3u8
+#EXTINF:0,VH1 Classic
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/724/index.m3u8
+#EXTINF:0,360 Tune Box
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/810/index.m3u8
+#EXTINF:0,Kino Polska Muzyka
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/822/index.m3u8
+#EXTINF:0,MTV Rocks
+#EXTGRP:музыка
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1038/index.m3u8
+#EXTINF:0,История
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/111/index.m3u8
+#EXTINF:0,Моя Планета
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/117/index.m3u8
+#EXTINF:0,Наука 2.0
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/118/index.m3u8
+#EXTINF:0,Outdoor Channel
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/119/index.m3u8
+#EXTINF:0,Сов. Секретно
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/121/index.m3u8
+#EXTINF:0,Россия-Культура
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/505/index.m3u8
+#EXTINF:0,Доктор
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/512/index.m3u8
+#EXTINF:0,Авто 24
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/538/index.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/133/index.m3u8
+#EXTINF:0,nat geographic
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/134/index.m3u8
+#EXTINF:0,DTX
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/135/index.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/136/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/137/index.m3u8
+#EXTINF:0,ID Xtra
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/139/index.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/140/index.m3u8
+#EXTINF:0,Авто Плюс
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/151/index.m3u8
+#EXTINF:0,Кухня ТВ
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/152/index.m3u8
+#EXTINF:0,Время
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/552/index.m3u8
+#EXTINF:0,Домашние Животные
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/158/index.m3u8
+#EXTINF:0,Точка отрыва
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/159/index.m3u8
+#EXTINF:0,Надежда
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/656/index.m3u8
+#EXTINF:0,Viasat Nature
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/161/index.m3u8
+#EXTINF:0,Viasat History
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/162/index.m3u8
+#EXTINF:0,Viasat Explore
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/163/index.m3u8
+#EXTINF:0,Travel Channel
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/130/index.m3u8
+#EXTINF:0,Первый образовательный
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/701/index.m3u8
+#EXTINF:0,OCEAN-TV
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/703/index.m3u8
+#EXTINF:0,Бобёр
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/725/index.m3u8
+#EXTINF:0,Зоопарк
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/731/index.m3u8
+#EXTINF:0,E
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/736/index.m3u8
+#EXTINF:0,Морской
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/742/index.m3u8
+#EXTINF:0,Усадьба
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/532/index.m3u8
+#EXTINF:0,English Club TV
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/993/index.m3u8
+#EXTINF:0,Travel TV
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1044/index.m3u8
+#EXTINF:0,DocuBox HD
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/811/index.m3u8
+#EXTINF:0,Sea TV
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/824/index.m3u8
+#EXTINF:0,Da Vinci Learning EN
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1033/index.m3u8
+#EXTINF:0,Classical Harmony
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1037/index.m3u8
+#EXTINF:0,Travel Channel EN
+#EXTGRP:познавательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1070/index.m3u8
+#EXTINF:0,Tiji TV
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/108/index.m3u8
+#EXTINF:0,Gulli
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/109/index.m3u8
+#EXTINF:0,Nick Jr
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/114/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/541/index.m3u8
+#EXTINF:0,Disney
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/524/index.m3u8
+#EXTINF:0,Детский мир
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/543/index.m3u8
+#EXTINF:0,Jim Jam
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/138/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/143/index.m3u8
+#EXTINF:0,Карусель
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/156/index.m3u8
+#EXTINF:0,Ani
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/129/index.m3u8
+#EXTINF:0,Мульт
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/909/index.m3u8
+#EXTINF:0,Тлум HD
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/240/index.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/723/index.m3u8
+#EXTINF:0,О!
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/727/index.m3u8
+#EXTINF:0,Детский
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/730/index.m3u8
+#EXTINF:0,В гостях у сказки
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/737/index.m3u8
+#EXTINF:0,Карусель (+3)
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/740/index.m3u8
+#EXTINF:0,Мультимузыка
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/749/index.m3u8
+#EXTINF:0,Мультик HD
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/921/index.m3u8
+#EXTINF:0,Duck TV
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1031/index.m3u8
+#EXTINF:0,BabyTV
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/807/index.m3u8
+#EXTINF:0,Малыш
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1041/index.m3u8
+#EXTINF:0,Nickelodeon EN
+#EXTGRP:детские
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1069/index.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:развлекательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/104/index.m3u8
+#EXTINF:0,ЖАРА
+#EXTGRP:развлекательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/105/index.m3u8
+#EXTINF:0,Paramount Comedy Russia
+#EXTGRP:развлекательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/157/index.m3u8
+#EXTINF:0,ТНТ (+2)
+#EXTGRP:развлекательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/717/index.m3u8
+#EXTINF:0,НТВ Стиль
+#EXTGRP:развлекательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/745/index.m3u8
+#EXTINF:0,Fashiontv EN
+#EXTGRP:развлекательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1010/index.m3u8
+#EXTINF:0,World Fashion Channel
+#EXTGRP:развлекательные
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1068/index.m3u8
+#EXTINF:0,Мир
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/113/index.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/501/index.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/502/index.m3u8
+#EXTINF:0,Пятница
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/503/index.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/504/index.m3u8
+#EXTINF:0,СТС
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/506/index.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/508/index.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/127/index.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/128/index.m3u8
+#EXTINF:0,Че
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/513/index.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/514/index.m3u8
+#EXTINF:0,ТНВ-Планета
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/515/index.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/520/index.m3u8
+#EXTINF:0,Телеканал Да Винчи
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/537/index.m3u8
+#EXTINF:0,Телеканал Звезда
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/544/index.m3u8
+#EXTINF:0,Ю ТВ
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/534/index.m3u8
+#EXTINF:0,КВН ТВ
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/546/index.m3u8
+#EXTINF:0,Мама
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/704/index.m3u8
+#EXTINF:0,ОТР
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/705/index.m3u8
+#EXTINF:0,CBS Reality
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/706/index.m3u8
+#EXTINF:0,ТВЦ (+2)
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/716/index.m3u8
+#EXTINF:0,Ювелирочка Мода
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/718/index.m3u8
+#EXTINF:0,NHK World TV
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/729/index.m3u8
+#EXTINF:0,Fine Living
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/735/index.m3u8
+#EXTINF:0,ЖИВИ!
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/738/index.m3u8
+#EXTINF:0,Звезда (+2)
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/739/index.m3u8
+#EXTINF:0,НТВ Право
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/743/index.m3u8
+#EXTINF:0,РЕН ТВ (+2)
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/747/index.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/748/index.m3u8
+#EXTINF:0,CNL
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/955/index.m3u8
+#EXTINF:0,Al Jazeera
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/960/index.m3u8
+#EXTINF:0,TVP Info
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/961/index.m3u8
+#EXTINF:0,France 24
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/964/index.m3u8
+#EXTINF:0,AzTV
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/966/index.m3u8
+#EXTINF:0,Kabbala TV
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/970/index.m3u8
+#EXTINF:0,Life TV
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/971/index.m3u8
+#EXTINF:0,Йога 23
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/974/index.m3u8
+#EXTINF:0,СПАС
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/983/index.m3u8
+#EXTINF:0,Возрождение
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/984/index.m3u8
+#EXTINF:0,Архыз 24
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1049/index.m3u8
+#EXTINF:0,CBC AZ
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1050/index.m3u8
+#EXTINF:0,GUNAZ TV
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1051/index.m3u8
+#EXTINF:0,ABP News
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1052/index.m3u8
+#EXTINF:0,AIT Int
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1053/index.m3u8
+#EXTINF:0,ТМВ RU
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1054/index.m3u8
+#EXTINF:0,ТБН Россия
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1056/index.m3u8
+#EXTINF:0,8 канал
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1057/index.m3u8
+#EXTINF:0,8 канал Красноярский край
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1058/index.m3u8
+#EXTINF:0,Астрахань 24
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1059/index.m3u8
+#EXTINF:0,Грозный
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1060/index.m3u8
+#EXTINF:0,Беларусь 24
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1061/index.m3u8
+#EXTINF:0,HardLife TV
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1062/index.m3u8
+#EXTINF:0,Silence TV HD
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1065/index.m3u8
+#EXTINF:0,ILand
+#EXTGRP:другие
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1067/index.m3u8
+#EXTINF:0,Матч! Наш спорт
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/107/index.m3u8
+#EXTINF:0,Матч! Планета
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/123/index.m3u8
+#EXTINF:0,Матч! Футбол 1
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/124/index.m3u8
+#EXTINF:0,Наш футбол
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/531/index.m3u8
+#EXTINF:0,KHL
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/519/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/522/index.m3u8
+#EXTINF:0,Матч! Арена
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/528/index.m3u8
+#EXTINF:0,Матч! Игра
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/529/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/530/index.m3u8
+#EXTINF:0,Матч ТВ
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/535/index.m3u8
+#EXTINF:0,Eurosport 1
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/141/index.m3u8
+#EXTINF:0,Extreme Sports
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/144/index.m3u8
+#EXTINF:0,Матч! Боец
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/150/index.m3u8
+#EXTINF:0,Viasat Sport
+#EXTGRP:спорт
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/160/index.m3u8
+#EXTINF:0,Первый HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/204/index.m3u8
+#EXTINF:0,VIP Premiere
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/202/index.m3u8
+#EXTINF:0,VIP Comedy
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/200/index.m3u8
+#EXTINF:0,VIP Megahit
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/201/index.m3u8
+#EXTINF:0,Viasat Nature/History HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/203/index.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/205/index.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/206/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/207/index.m3u8
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/208/index.m3u8
+#EXTINF:0,MGM HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/209/index.m3u8
+#EXTINF:0,RTG HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/210/index.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/211/index.m3u8
+#EXTINF:0,Матч! HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/212/index.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/213/index.m3u8
+#EXTINF:0,Конный Мир HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/214/index.m3u8
+#EXTINF:0,Телеканал КХЛ HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/215/index.m3u8
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/216/index.m3u8
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/217/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/218/index.m3u8
+#EXTINF:0,Fox HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/219/index.m3u8
+#EXTINF:0,Наш футбол HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/220/index.m3u8
+#EXTINF:0,MTV Live HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/221/index.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/222/index.m3u8
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/223/index.m3u8
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/224/index.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/225/index.m3u8
+#EXTINF:0,HD Life
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/226/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/227/index.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/228/index.m3u8
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/229/index.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/230/index.m3u8
+#EXTINF:0,History HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/231/index.m3u8
+#EXTINF:0,TLC HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/232/index.m3u8
+#EXTINF:0,Travel Channel HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/233/index.m3u8
+#EXTINF:0,Eurosport 2 North-East HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/234/index.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/904/index.m3u8
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/911/index.m3u8
+#EXTINF:0,Кинопоказ HD-1
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/913/index.m3u8
+#EXTINF:0,Кинопоказ HD-2
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/912/index.m3u8
+#EXTINF:0,Наш Кинороман HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/914/index.m3u8
+#EXTINF:0,Наш Детектив HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/915/index.m3u8
+#EXTINF:0,Охотник и рыболов HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/917/index.m3u8
+#EXTINF:0,Еда HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/918/index.m3u8
+#EXTINF:0,Мир HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/235/index.m3u8
+#EXTINF:0,BRIDGE HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/236/index.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/237/index.m3u8
+#EXTINF:0,1HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/238/index.m3u8
+#EXTINF:0,Bollywood HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/239/index.m3u8
+#EXTINF:0,Теледом
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/954/index.m3u8
+#EXTINF:0,Два Диеза
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/975/index.m3u8
+#EXTINF:0,Настоящее время
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/986/index.m3u8
+#EXTINF:0,Travel HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1043/index.m3u8
+#EXTINF:0,Футбол 1 HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/800/index.m3u8
+#EXTINF:0,Футбол 2 HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/801/index.m3u8
+#EXTINF:0,Food Network
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/819/index.m3u8
+#EXTINF:0,Gametoon
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/820/index.m3u8
+#EXTINF:0,Nautical Channel
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/823/index.m3u8
+#EXTINF:0,XSPORT HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/996/index.m3u8
+#EXTINF:0,Fashiontv EN HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1011/index.m3u8
+#EXTINF:0,Epic Drama
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1048/index.m3u8
+#EXTINF:0,Deluxe Lounge HD
+#EXTGRP:HD
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/968/index.m3u8
+#EXTINF:0,Эгоист
+#EXTGRP:взрослые
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/526/index.m3u8
+#EXTINF:0,Playboy
+#EXTGRP:взрослые
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/527/index.m3u8
+#EXTINF:0,Русская Ночь
+#EXTGRP:взрослые
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/147/index.m3u8
+#EXTINF:0,Brazzers TV Europe
+#EXTGRP:взрослые
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/910/index.m3u8
+#EXTINF:0,Искушение HD
+#EXTGRP:взрослые
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/919/index.m3u8
+#EXTINF:0,Шалун
+#EXTGRP:взрослые
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/922/index.m3u8
+#EXTINF:0,Candy
+#EXTGRP:взрослые
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/923/index.m3u8
+#EXTINF:0,Erox HD
+#EXTGRP:взрослые
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/813/index.m3u8
+#EXTINF:0,Penthouse TV
+#EXTGRP:взрослые
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1073/index.m3u8
+#EXTINF:0,Blue Hustler
+#EXTGRP:взрослые
+http://85b6b107.skalkak.ru/iptv/6XEMS6VZ8598MQ/1064/index.m3u8
